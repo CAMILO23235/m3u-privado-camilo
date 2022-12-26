@@ -7,8 +7,6 @@ http://190.131.247.82:8000/play/a06c
 http://190.131.247.82:8000/play/a05m
 #EXTINF:-1,Warner Channel HD
 http://200.75.113.64:8874/play/a0ke/index.m3u8
-#EXTINF:-1 , AZ Cinema HD
-http://190.131.247.82:8000/play/a0it
 #EXTINF:-1,Cinemax HD
 http://200.75.113.64:8874/play/a0l6/index.m3u8
 #EXTINF:-1,Clover HD
@@ -33,12 +31,6 @@ http://190.131.247.82:8000/play/a06m
 http://190.131.247.82:8000/play/a00f
 #EXTINF:-1 , BabyFirst
 http://190.131.247.82:8000/play/a01a
-#EXTINF:-1 , CANAL 13
-http://190.131.247.82:8000/play/a0gi
-#EXTINF:-1 , CANAL CONGRESO
-http://190.131.247.82:8000/play/a0h7
-#EXTINF:-1 , CARACOL TV HD
-http://190.131.247.82:8000/play/a039
 #EXTINF:-1 , CNN Espanol
 http://190.131.247.82:8000/play/a01b
 #EXTINF:-1 , Canal 13 HD
@@ -47,18 +39,12 @@ http://190.131.247.82:8000/play/a0id
 http://190.131.247.82:8000/play/a0h1
 #EXTINF:-1 , Canal Institucional
 http://190.131.247.82:8000/play/a0ay
-#EXTINF:-1 , Canal Uno
-http://190.131.247.82:8000/play/a0aw
-#EXTINF:-1 , Caracol Movil
-http://190.131.247.82:8000/play/a0ap
 #EXTINF:-1 , Cartoon Network HD
 http://190.131.247.82:8000/play/a06e
 #EXTINF:-1 , Cartoonito
 http://190.131.247.82:8000/play/a0fw
 #EXTINF:-1 , Cinecanal HD
 http://190.131.247.82:8000/play/a06b
-#EXTINF:-1 , City TV
-http://190.131.247.82:8000/play/a01m
 #EXTINF:-1 , Clover HD
 http://190.131.247.82:8000/play/a0jo
 #EXTINF:-1 , Comedy Central HD
@@ -105,17 +91,17 @@ http://190.131.247.82:8000/play/a022
 http://190.131.247.82:8000/play/a09d
 #EXTINF:-1 , Gol Mundial
 http://190.131.247.82:8000/play/a0jg
-#EXTINF:-1 , Golden HD
+#EXTINF:-1 ,Golden HD
 http://190.131.247.82:8000/play/a0h8
-#EXTINF:-1,017 HBO HD
+#EXTINF:-1,HBO HD
 http://45.160.15.130:2909/play/017
-#EXTINF:-1 , HBO 2 HD
+#EXTINF:-1 ,HBO 2 HD
 http://190.131.247.82:8000/play/a06k
 #EXTINF:-1 , HBO POP HD
 http://190.131.247.82:8000/play/a05q
-#EXTINF:-1,018 HBO Family HD
+#EXTINF:-1,HBO Family HD
 http://45.160.15.130:2909/play/018
-#EXTINF:-1,019 HBO Plus SD
+#EXTINF:-1,HBO Plus SD
 http://45.160.15.130:2909/play/019
 #EXTINF:-1,020 HBO Xtreme HD
 http://45.160.15.130:2909/play/020
@@ -131,12 +117,6 @@ http://190.131.247.82:8000/play/a073
 http://190.131.247.82:8000/play/a05i
 #EXTINF:-1 , ID HD
 http://190.131.247.82:8000/play/a09m
-#EXTINF:-1 , LA FM RADIO
-http://190.131.247.82:8000/play/a077
-#EXTINF:-1 , LA KALLE
-http://190.131.247.82:8000/play/a03b
-#EXTINF:-1 , LA MEGA
-http://190.131.247.82:8000/play/a079
 #EXTINF:-1 , Las Estrellas HD
 http://190.131.247.82:8000/play/a0ih
 #EXTINF:-1 , Lifetime
