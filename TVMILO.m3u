@@ -95,9 +95,9 @@ http://190.131.247.82:8000/play/a0h8
 http://45.160.15.130:2909/play/017
 #EXTINF:-1 type="stream" , HBO 2 HD
 http://190.131.247.82:8000/play/a06k
-#EXTINF:-1 type="stream" ,logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD 
+#EXTINF:-1 type="stream" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD 
 http://45.160.15.130:2909/play/018
-#EXTINF:-1 type="stream" ,logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO Xtreme HD
+#EXTINF:-1 type="stream" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO Xtreme HD
 http://45.160.15.130:2909/play/020
 #EXTINF:-1 type="stream" , HBO POP HD
 http://190.131.247.82:8000/play/a05q
