@@ -65,25 +65,25 @@ http://190.131.247.82:8000/play/a0gr
 http://190.131.247.82:8000/play/a09g
 #EXTINF:0 type="stream" channelId="3124", E! HD
 http://190.131.247.82:8000/play/a0ha
-#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
+#EXTINF:0 type="stream" channelId="3746",group="DEPORTES" , ESPN 2 HD
 http://190.131.247.82:8000/play/a0jn
-#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
+#EXTINF:0 type="stream" channelId="357",group="DEPORTES" , ESPN 3 HD
 http://190.131.247.82:8000/play/a09f
-#EXTINF:0 type="stream" channelId="-1", ESPN 4 HD
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES" , ESPN 4 HD
 http://190.131.247.82:8000/play/a0ds
-#EXTINF:0 type="stream" channelId="-1", ESPN EXTRA HD
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES" , ESPN EXTRA HD
 http://190.131.247.82:8000/play/a06d
-#EXTINF:0 type="stream" channelId="1263", ESPN HD
+#EXTINF:0 type="stream" channelId="1263",group="DEPORTES" , ESPN HD
 http://190.131.247.82:8000/play/a062
 #EXTINF:0 type="stream" channelId="310", El Gourmet HD
 http://190.131.247.82:8000/play/a0ir
-#EXTINF:0 type="stream" channelId="179", FOX Sports 2 HD
-http://190.131.247.82:8000/play/a0dt
 #EXTINF:0 type="stream" channelId="1304", FX HD
 http://190.131.247.82:8000/play/a0dy
-#EXTINF:0 type="stream" channelId="170", Fox Sports 2
-http://190.131.247.82:8000/play/a022
-#EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
+#EXTINF:-1,group="DEPORTES", Fox Sports 1 HD
+http://186.28.229.135:8000/play/a071/index.m3u8
+#EXTINF:0 type="stream" channelId="179",group="DEPORTES", FOX Sports 2 HD
+http://200.60.7.43:8000/play/a00v/index.m3u8
+#EXTINF:0 type="stream" channelId="213",group="DEPORTES", Fox Sports 3 HD
 http://190.131.247.82:8000/play/a09d
 #EXTINF:0 type="stream" channelId="-1", Gol Mundial
 http://190.131.247.82:8000/play/a0jg
