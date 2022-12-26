@@ -68,7 +68,7 @@ http://190.131.247.82:8000/play/a09g
 #EXTINF:0 type="stream" channelId="3124", E! HD
 http://190.131.247.82:8000/play/a0ha
 #EXTINF:0 type="stream" channelId="1263" group="DEPORTES", ESPN HD
-http://190.131.247.82:8000/play/a062
+http://138.186.20.102:9315/play/a04b/index.m3u8
 #EXTINF:0 type="stream" channelId="3746" group="DEPORTES", ESPN 2 HD
 http://190.131.247.82:8000/play/a0jn
 #EXTINF:0 type="stream" channelId="357" group="DEPORTES", ESPN 3 HD
@@ -153,6 +153,8 @@ http://190.131.247.82:8000/play/a02n
 http://190.131.247.82:8000/play/a09b
 #EXTINF:0 type="stream" channelId="3797", TNT Series HD
 http://190.131.247.82:8000/play/a0dx
+#EXTINF:-1,233 TNT SPORTS HD
+http://170.79.235.29:8000/play/233
 #EXTINF:0 type="stream" channelId="4787", TRO
 http://190.131.247.82:8000/play/a0h5
 #EXTINF:0 type="stream" channelId="2636", TRUTV HD
