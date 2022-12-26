@@ -61,21 +61,23 @@ http://190.131.247.82:8000/play/a0gr
 http://190.131.247.82:8000/play/a09g
 #EXTINF:0 type="stream" channelId="3124", E! HD
 http://190.131.247.82:8000/play/a0ha
-#EXTINF:0 type="stream" channelId="1263" group="DEPORTES", ESPN HD
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports.." group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
+http://magmas5.com:8000/malotv/gratis/131982
+#EXTINF:0 type="stream" channelId="1263" group-title"DEPORTES", ESPN HD
 http://138.186.20.102:9315/play/a04b/index.m3u8
-#EXTINF:0 type="stream" channelId="3746" group="DEPORTES", ESPN 2 HD
+#EXTINF:0 type="stream" channelId="3746" group-title"DEPORTES", ESPN 2 HD
 http://190.131.247.82:8000/play/a0jn
-#EXTINF:0 type="stream" channelId="357" group="DEPORTES", ESPN 3 HD
+#EXTINF:0 type="stream" channelId="357" group-title"DEPORTES", ESPN 3 HD
 http://190.131.247.82:8000/play/a09f
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", ESPN 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title"DEPORTES", ESPN 4 HD
 http://190.131.247.82:8000/play/a0ds
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", ESPN EXTRA HD
+#EXTINF:0 type="stream" channelId="-1" group-title"DEPORTES", ESPN EXTRA HD
 http://190.131.247.82:8000/play/a06d
-#EXTINF:-1 type="stream" group="DEPORTES", Fox Sports 1 HD
+#EXTINF:-1 type="stream" group-title"DEPORTES", Fox Sports 1 HD
 http://186.28.229.135:8000/play/a071/index.m3u8
-#EXTINF:0 type="stream" channelId="179" group="DEPORTES", FOX Sports 2 HD
+#EXTINF:0 type="stream" channelId="179" group-title"DEPORTES", FOX Sports 2 HD
 http://200.60.7.43:8000/play/a00v/index.m3u8
-#EXTINF:0 type="stream" channelId="213" group="DEPORTES", Fox Sports 3 HD
+#EXTINF:0 type="stream" channelId="213" group-title"DEPORTES", Fox Sports 3 HD
 http://190.131.247.82:8000/play/a09d
 #EXTINF:0 type="stream" channelId="310", El Gourmet HD
 http://190.131.247.82:8000/play/a0ir
@@ -153,7 +155,7 @@ http://170.79.235.29:8000/play/233
 http://190.131.247.82:8000/play/a0h5
 #EXTINF:0 type="stream" channelId="2636", TRUTV HD
 http://190.131.247.82:8000/play/a0iq
-#EXTINF:0 type="stream" channelId="-1" name="PUBLICA" group="TV" tvg-country="TV", TV-PUBLICA
+#EXTINF:0 type="stream" channelId="-1" name="PUBLICA" group-title"TV" tvg-country="TV", TV-PUBLICA
 http://190.131.247.82:8000/play/a0jf
 #EXTINF:0 type="stream" channelId="-1", Teen Nick HD
 http://190.131.247.82:8000/play/a0if
