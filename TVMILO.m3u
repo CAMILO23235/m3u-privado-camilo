@@ -68,7 +68,7 @@ http://190.131.247.82:8000/play/a09g
 #EXTINF:0 type="stream" channelId="3124", E! HD
 http://190.131.247.82:8000/play/a0ha
 #EXTINF:0 type="stream" channelId="1263" group-title="DEPORTES", ESPN HD
-http://190.131.247.82:8000/play/a062
+http://138.186.20.102:9315/play/a04b/index.m3u8
 #EXTINF:0 type="stream" channelId="3746" group-title="DEPORTES", ESPN 2 HD
 http://190.131.247.82:8000/play/a0jn
 #EXTINF:0 type="stream" channelId="357" group-title="DEPORTES", ESPN 3 HD
