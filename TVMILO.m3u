@@ -165,5 +165,7 @@ http://190.131.247.82:8000/play/a0if
 http://45.228.234.185:8000/play/a0gv/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL CHANNEL HD
 http://190.131.247.82:8000/play/a0dq
-#EXTINF:-1 , tvg-logo="http://45.228.234.185:8000/playlist/tvg-logo/a0i5.png" , UNIVERSAL COMEDY HD
+#EXTINF:-1 , tvg-logo="http://45.228.234.185:8000/playlist/tvg-logo/a0i5.png",UNIVERSAL COMEDY HD
 http://45.228.234.185:8000/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.228.234.185:8000/playlist/tvg-logo/a0kt.png",UNIVERSAL CINEMA HD
+http://45.228.234.185:8000/play/a0kt/index.m3u8
