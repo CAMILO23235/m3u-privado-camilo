@@ -31,10 +31,6 @@ http://190.131.247.82:8000/play/a00f
 http://190.131.247.82:8000/play/a01a
 #EXTINF:0 type="stream" channelId="-1", CNN Espanol
 http://190.131.247.82:8000/play/a01b
-#EXTINF:0 type="stream" channelId="-1", Canal 13 HD
-http://190.131.247.82:8000/play/a0id
-#EXTINF:0 type="stream" channelId="-1", Canal Del Capital
-http://190.131.247.82:8000/play/a0h1
 #EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
 http://190.131.247.82:8000/play/a06e
 #EXTINF:0 type="stream" channelId="1305", Cartoonito
@@ -43,8 +39,6 @@ http://190.131.247.82:8000/play/a0fw
 http://190.131.247.82:8000/play/a06b
 #EXTINF:-1 tvg-logo="http://45.228.234.185:8000/playlist/tvg-logo/a0iz.png",SPACE HD
 http://45.228.234.185:8000/play/a0iz/index.m3u8
-#EXTINF:0 type="stream" channelId="1409", City TV
-http://190.131.247.82:8000/play/a01m
 #EXTINF:0 type="stream" channelId="-1", Clover HD
 http://190.131.247.82:8000/play/a0jo
 #EXTINF:0 type="stream" channelId="1191", Comedy Central HD
