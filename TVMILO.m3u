@@ -153,13 +153,13 @@ http://190.131.247.82:8000/play/a02n
 http://190.131.247.82:8000/play/a09b
 #EXTINF:-1 type="stream" , TNT Series HD
 http://190.131.247.82:8000/play/a0dx
-#EXTINF:-1 type="stream" , TNT SPORTS HD
+#EXTINF:-1 type="stream" group-title="Deporte LATINO", TNT SPORTS HD
 http://170.79.235.29:8000/play/233
 #EXTINF:-1 type="stream" , TRO
 http://190.131.247.82:8000/play/a0h5
 #EXTINF:-1 type="stream" , TRUTV HD
 http://190.131.247.82:8000/play/a0iq
-#EXTINF:-1 type="stream"  name="PUBLICA"  tvg-country="TV", TV-PUBLICA
+#EXTINF:-1 type="stream" , TV-PUBLICA
 http://190.131.247.82:8000/play/a0jf
 #EXTINF:-1 type="stream" , Teen Nick HD
 http://190.131.247.82:8000/play/a0if
